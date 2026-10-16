@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="ouro" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5E3F0F"/><stop offset=".2" stop-color="#9C6E1E"/>
+      <stop offset=".38" stop-color="#D4A73B"/><stop offset=".48" stop-color="#F4DD8E"/>
+      <stop offset=".52" stop-color="#FFF4CF"/><stop offset=".6" stop-color="#E2B84E"/>
+      <stop offset=".8" stop-color="#A57A26"/><stop offset="1" stop-color="#6B4913"/>
+    </linearGradient>
+  </defs>
+  <rect width="16" height="16" rx="2" fill="url(#ouro)"/>
+</svg>

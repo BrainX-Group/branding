@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs>
-    <style>
-      .d {
-        fill: gold;
-      }
-    </style>
-  </defs>
-  <g id="c" data-name="Layer 5">
-    <rect class="d" width="16" height="16" rx="2" ry="2"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><rect width="16" height="16" rx="2" fill="#D4A73B"/></svg>
